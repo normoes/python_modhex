@@ -31,7 +31,7 @@ python_modhex to-modhex 000000d0866ccc2338cdcf2a26d63b55fe32543f830e <list_of_he
 
 ## Use as module
 ```
->>> import python_modhex
+>>> from python_modhex.python_modhex import from_modhex, to_modhex
 >>> modhex = "cccccccgklgcvnkcvnnegrnhgrjkhlkfhdkclfncvlgj"
 >>> hex_ = "000000059a50fb90fbb35cb65c896a946290a4b0fa58
 >>>

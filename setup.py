@@ -6,7 +6,7 @@ from python_modhex._version import __version__
 setup(
     name="python_modhex",
     version=__version__,
-    description="",
+    description="Very simple modhex library when working with yubikey OTPs.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Norman Moeschter-Schenck",
